@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sender-a
-- 👾 I'm malware analyst
-- 💼 Currently working at Group-IB THF (found out details: https://www.group-ib.com/threat-hunting-framework.html)
-- 📫 You can reach me through stepchenkova@group-ib.com
+- 👾 I'm DFIR expert
+- 💼 Currently working at KPMG SG
+- 📫 You can reach me out via alinastsepchankova@kpmg.com.sg
 
 <!---
 sender-a/sender-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
